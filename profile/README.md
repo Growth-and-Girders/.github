@@ -39,8 +39,19 @@
 * Development of an open-source community for continuous innovation and collaboration.
 
 ### Some Screenshots of the current Web App
-* Dashboard Page
 * Home Page
+* <img width="1440" alt="Screenshot 2023-11-13 at 2 18 41 PM" src="https://github.com/Growth-and-Girders/.github/assets/67492324/42206794-4d35-402a-9d7e-1094b24484ae">
+
+* Dashboard Page
+* <img width="1440" alt="Screenshot 2023-11-13 at 2 19 36 PM" src="https://github.com/Growth-and-Girders/.github/assets/67492324/17450f0e-e808-4a2f-a627-aa749d46835c">
+* <img width="1440" alt="Screenshot 2023-11-13 at 2 19 59 PM" src="https://github.com/Growth-and-Girders/.github/assets/67492324/5cd41a1a-a119-4722-a146-d9ed8f2f575b">
+* <img width="1439" alt="Screenshot 2023-11-13 at 2 20 38 PM" src="https://github.com/Growth-and-Girders/.github/assets/67492324/305c2ae3-04fc-4fd6-b483-651a9db616c1">
+* <img width="1440" alt="Screenshot 2023-11-13 at 2 21 05 PM" src="https://github.com/Growth-and-Girders/.github/assets/67492324/7df2a033-988a-4fa8-935d-e9790de8a71a">
+* <img width="1435" alt="Screenshot 2023-11-13 at 2 21 35 PM" src="https://github.com/Growth-and-Girders/.github/assets/67492324/1665a1b2-821c-476a-ab28-727796724dfa">
+* <img width="1440" alt="Screenshot 2023-11-13 at 2 22 03 PM" src="https://github.com/Growth-and-Girders/.github/assets/67492324/0a51db81-7a32-40d7-8ccc-68e2e9cef241">
+
+
+
 
 ## Tech Stack & Tools
 * Blockchain Technology for secure transactions.
