@@ -39,7 +39,8 @@
 * Development of an open-source community for continuous innovation and collaboration.
 
 ### Some Screenshots of the current Web App
-* Dashboard Page  
+* Dashboard Page
+* Home Page
 
 ## Tech Stack & Tools
 * Blockchain Technology for secure transactions.
