@@ -38,12 +38,23 @@
 * Enhancing global reach to include more high-impact locations.
 * Development of an open-source community for continuous innovation and collaboration.
 
+### Some Screenshots of the current Web App
+* Dashboard Page  
+
 ## Tech Stack & Tools
 * Blockchain Technology for secure transactions.
 * Smart Contracts for managing transactions and interactions.
+* optimism (sepolia) for on-chain transactions
+* TailwindCSS for CSS design
+* Hardhat for Smart Contract Testing
+* IPFS & Pinata for file and metadata storage
 * User-friendly Interface for easy access and participation.
+* React.js as a frontend framework
 * Global Networking Systems to connect planters and funders worldwide.
+
+
+
 
 *Join us in our mission to empower local communities and make a tangible impact on the planet with Growth and Grinders.*
 
-[Website](https://growthandgriders.xyz) | [Twitter](LINK_TO_TWITTER)
+[Website](https://growthandgriders.xyz) | [Twitter](https://twitter.com/growthGriders)
